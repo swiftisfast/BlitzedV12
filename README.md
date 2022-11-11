@@ -8,8 +8,7 @@ Grabs Discord token
 Grabs victim machine info
 Grabs Windows product key
 Grabs IP address, geolocation
-Grabs screenshot![  11_11_2022 8_35_45 AM](https://user-images.githubusercontent.com/114434075/201362160-0d5ee4a0-3ee6-459d-b3b6-5d92af7b37aa.png)
-
+Grabs screenshot!
 Anti Virutal Machine
 Anti Debug
 BUILDER PREVIEW
